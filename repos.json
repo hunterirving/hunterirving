@@ -1,16 +1,16 @@
 [
+	"soundstone",
 	"mixapps",
 	"memori",
 	"animus",
-	"events",
 	"macproxy_plus",
 	"macweb-2.0c-plus",
 	"pico-crossing",
 	"kirbys_speedrun",
+	"events",
+	"qr",
 	"web_workshop",
 	"zine_studio",
 	"timeline",
-	"matryoshka",
-	"fugue",
-	"qr"
+	"matryoshka"
 ]
